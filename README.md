@@ -1,6 +1,3 @@
-Here is a **fully-fledged `README.md`** for your **Feature Pipeline** project, complete with setup instructions, project overview, usage, and key learnings:
-
----
 
 ```markdown
 # 🧠 Feature Pipeline for Tabular Data Preprocessing
@@ -142,16 +139,5 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 ## 👤 Author
 
 **Tanish Panchal**
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tanish2311/)
 
----
 
-```
-
----
-
-Let me know if you want:
-- A badge-based header (for PyPI, Python, etc.)
-- GitHub Actions CI integration
-- A section for model training after the pipeline
-```
