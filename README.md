@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🧠 Feature Pipeline for Tabular Data Preprocessing
 
 A modular and production-ready feature engineering pipeline using `scikit-learn` and `feature-engine`. This project prepares raw tabular data for machine learning by handling missing values, encoding categorical features, and ensuring pipeline reusability.
@@ -8,7 +8,7 @@ A modular and production-ready feature engineering pipeline using `scikit-learn`
 
 ## 📁 Project Structure
 
-```
+
 
 feature-pipeline/
 ├── data/
